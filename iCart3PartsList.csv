@@ -1,0 +1,32 @@
+番号,型番,品名,図面番号,個数,メーカー,調達先,備考,SW-ﾌｧｲﾙ名(File Name)
+1,WP22-12NE,密閉型鉛蓄電池,,2,LONG,,12V_22Ah_高耐久,Battery12V22Ah
+2,JTDA-SPC-A137-B30-T3.2-N8-L107-NA8,BatteryBracketSimple,20220503-1,2,MISUMI,MISUMI,SPCC_t3.2_平板ブラケット_三価クロメート,BatteryBracketSimple
+3,FAMA-SPC-T3.2-A60-B30-L90-F73.5-H53-N8-V30-S15-NA6,MotorBracketSimple,20220503-2,4,MISUMI,MISUMI,SPCC_t3.2_L曲げブラケット_三価クロメート,MotorBracketSimple
+4,FNCA-V20-D32-L14.5,カラー,,2,MISUMI,MISUMI,外32-内20-t14.5_A2000系,Washer
+5,RSXB-SU-D25-L180.7-Y65-E17-H2-Q11-G10-J12-M10-F98.7-S81.7-P20-V10-K12-MA10-KC0-A59-KPC0-PX50,シャフト,20220418-6,2,MISUMI,MISUMI,SUS304_回転軸_両端2段付きタイプ,Shaft
+6,HBLFSD6,ブラケット,,8,MISUMI,MISUMI,6シリーズ_溝幅8mm_2列溝用_突起付反転ブラケット,HBLFSD6
+7,WSSM35-12-3,ワッシャ,,4,MISUMI,MISUMI,外35-内12-t3_無電解ニッケルメッキ,Washer
+8,CBE6-12,六角穴付ボルト,,58,MISUMI,MISUMI,M6-12_三価ホワイト,Screw
+9,CBE8-20,六角穴付ボルト,,4,MISUMI,MISUMI,M8-20_三価ホワイト,Screw
+10,HNTL1N-ST3W-M8,ナイロンナット,,4,SUNCO,MISUMI,M8_三価ホワイト,Nut
+11,HNTL1N-ST3W-M10,ナイロンナット,,4,SUNCO,MISUMI,M10_三価ホワイト,Nut
+12,CSHZ-ST3W-M8-85,六角穴付ボルト,,4,SUNCO,MISUMI,M8-85_三価ホワイト,Screw
+13,SFB-002,TナットS,,58,SUS,SUS,M6_S10C相当,SFB-002
+14,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=193_RT_右端タップ追加工,SFF-324
+15,SFF-324,アルミフレーム,,1,SUS,SUS,SF2-3030_L=269,SFF-324
+16,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=440,SFF-324
+17,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=494,SFF-324
+18,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=77_TR_右端タップ追加工,SFF-334
+19,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=163_TR_右端タップ追加工,SFF-334
+20,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=285,SFF-334
+21,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=494,SFF-334
+22,SFK-56A,フットベース,,1,SUS,SUS,3060_M12_取付用M8-20ボルトセット,SFK-56AS
+23,SFJ-A13,ブラケット,,1,SUS,SUS,3060_M12_単品ボルトなし,SFJ-A13
+24,SFJ-045,ブラケット,,6,SUS,SUS,DブラケットクロスS,SFJ-045
+25,SFK-04LG,フレームキャップ,,4,SUS,SUS,ロックタイプ3060（ライトグレー）,SFA-005
+26,SFK-05LG,フレームキャップ,,6,SUS,SUS,ロックタイプN3030(ライトグレー),SFA-033
+27,BLMR5100KM-20FR-B,ギヤヘッド付ブラシレスDCモータ,,2,オリエンタルモーター,オリエンタルモーター,減速比20_反出力軸側引出し_100W,BLMR5100K
+28,FKS06049,マシンキー,,2,セイキ製作所,MISUMI,6x6_L=49_片端丸形_SUS,Key
+29,FKS08059,マシンキー,,2,セイキ製作所,MISUMI,8x7_L=59_片端丸形_SUS,Key
+30,940BEA-FR125-3.2MM-M12X1.75,衝撃吸収キャスター,,1,ハンマーキャスター,MISUMI,Φ125mm_耐荷重30daN_M12ねじ取付け式,940BEA-FR 125 M12x1.75
+31,ALA3.50-5,ノーパンクタイヤ,,2,ヨドノ,商社,直径285mm_キー穴セミカスタム_軸直径25mm_キー8x3.3,ALA3.50-5_
