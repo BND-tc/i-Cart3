@@ -8,6 +8,9 @@
 60Wモーター版も近日中に公開予定です
 
 
-## 3Dモデルデータ (3D Model Data )
+## 3Dモデルデータ (3D Model Data)
 Parasolid形式とSTEP形式のモデルデータです
 
+
+## 構成 (Configuraion)
+システムおよび回路の構成の資料です。
