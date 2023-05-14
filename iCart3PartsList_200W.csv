@@ -1,0 +1,35 @@
+番号,型番,品名,図面番号,個数,メーカー,調達先,備考,SW-ﾌｧｲﾙ名(File Name)
+1,SH-U10,コンバータ,,1,DSD TECH,Amazon,USB-RS485変換,RS_485
+2,WP22-12NE,密閉型鉛蓄電池,,2,LONG,,12V_22Ah_高耐久,Battery12V22Ah
+3,JTDA-SPC-A137-B30-T3.2-N8-L107-NA8,BatteryBracketSimple,20220503-1,2,MISUMI,MISUMI,SPCC_t3.2_平板ブラケット_三価クロメート,BatteryBracketSimple
+4,FAMA-SPC-T3.2-A55-B30-L100-F84.9-H47.3-N8-V30-S15-NA6,MotorBracketSimple_200W,20220503-3,4,MISUMI,MISUMI,SPCC_t3.2_L曲げブラケット_三価クロメート,MotorBracketSimple
+5,FNCA-V25-D32-L14.5,カラー,,2,MISUMI,MISUMI,外32-内25-t14.5_A2000系,Washer
+6,RSWD-SU-D25-L201-Y167-E17-Q10-F17-P10-J13-K13-M10-MA10-KWC14-A50-W39-B50,シャフト,20220425-1,2,MISUMI,MISUMI,SUS304_回転軸_両端1段付きタイプ,Shaft
+7,HBLFSD6,ブラケット,,8,MISUMI,MISUMI,6シリーズ_溝幅8mm_2列溝用_突起付反転ブラケット,HBLFSD6
+8,WSSM35-12-3,ワッシャ,,4,MISUMI,MISUMI,外35-内12-t3_無電解ニッケルメッキ,Washer
+9,CBE6-12,六角穴付ボルト,,58,MISUMI,MISUMI,M6-12_三価ホワイト,Screw
+10,CBE8-20,六角穴付ボルト,,4,MISUMI,MISUMI,M8-20_三価ホワイト,Screw
+11,HNTL1N-ST3W-M8,ナイロンナット,,4,SUNCO,MISUMI,M8_三価ホワイト,Nut
+12,HNTL1N-ST3W-M10,ナイロンナット,,4,SUNCO,MISUMI,M10_三価ホワイト,Nut
+13,CSHZ-ST3W-M8-100,六角穴付ボルト,,4,SUNCO,MISUMI,M8-100_三価ホワイト,Screw
+14,SFB-002,TナットS,,58,SUS,SUS,M6_S10C相当,SFB-002
+15,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=193_RT_右端タップ追加工,SFF-324
+16,SFF-324,アルミフレーム,,1,SUS,SUS,SF2-3030_L=269_TGW3_TGジョイント用穴加工両端キャップ有,SFF-324
+17,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=490,SFF-324
+18,SFF-324,アルミフレーム,,2,SUS,SUS,SF2-3030_L=614,SFF-324
+19,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=77_TR_右端タップ追加工,SFF-334
+20,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=163_TR_右端タップ追加工,SFF-334
+21,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=347.4,SFF-334
+22,SFF-334,アルミフレーム,,1,SUS,SUS,SF2-3060_L=614,SFF-334
+23,SFK-56A,フットベース,,1,SUS,SUS,3060_M12_取付用M8-20ボルトセット,SFK-56AS
+24,SFJ-A13,ブラケット,,1,SUS,SUS,3060_M12_単品ボルトなし,SFJ-A13
+25,SFJ-045,ブラケット,,6,SUS,SUS,DブラケットクロスS,SFJ-045
+26,SFK-04LG,フレームキャップ,,4,SUS,SUS,ロックタイプ3060（ライトグレー）,SFA-005
+27,SFK-05LG,フレームキャップ,,6,SUS,SUS,ロックタイプN3030(ライトグレー),SFA-033
+28,SFK-206,フレームジョイント,,2,SUS,SUS,TGジョイントキット30,SFK-206
+29,BLMR6200SKM-20FR-B,ギヤヘッド付ブラシレスDCモータ,,2,オリエンタルモーター,オリエンタルモーター,減速比20_反出力軸側引出し_200W,BLMR6200SKM
+30,BLVD-KRD,モータードライバ,,2,オリエンタルモーター,オリエンタルモーター,BLVシリーズ Rタイプ,A1806
+31,LC03D06A,電源ケーブル,,2,オリエンタルモーター,オリエンタルモーター,主電源（DC24V/48V）用長さ 0.6m_UL1007AWG16,LC03D06A
+32,FRS08049,マシンキー,,4,セイキ製作所,モノタロウ,8x7_L=49_両端丸形_SUS,Key
+33,940BEA-FR125-3.2MM-M12X1.75,衝撃吸収キャスター,,1,ハンマーキャスター,MISUMI,Φ125mm_耐荷重30daN_M12ねじ取付け式,940BEA-FR 125 M12x1.75
+34,ALA3.50-5,ノーパンクタイヤ,,2,ヨドノ,商社,直径285mm_軸直径25mm_キー8x3.3,ALA3.50-5
