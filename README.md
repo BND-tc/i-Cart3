@@ -13,13 +13,19 @@ Parasolid形式とSTEP形式のモデルデータです
 
 
 ## 構成 (Configuraion)
-システムおよび回路の構成の資料です。
+システムおよび回路の構成の資料です
+
+iCart3_Configuration.pdfを参考に配線をしてください
 
 ## ソフトウェア (Software)
-i-Cart3用のソフトウェアおよび設定ファイルです。
+i-Cart3用のソフトウェアおよび設定ファイルです
 
 ### yp-spur(BLVR対応)
 > https://github.com/BND-tc/yp-spur
+
+上記ビルドの際にはlibmodbusが必要となります
+
+BLVRにはあらかじめ左右モータードライバにmxex設定ファイルを適用してください
 
 ### yp-spur単体実行例
 > /usr/local/bin/ypspur-coordinator -d PORT_PATH --blvr -p PARAM_PATH
